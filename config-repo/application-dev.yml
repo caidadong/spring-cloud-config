@@ -63,4 +63,4 @@ logging:
     level:
         com.iflytek.evidence.mapper: DEBUG
 typeAliasesPackage: com.ddcai.wx.model
-fresh=1
+fresh:1
